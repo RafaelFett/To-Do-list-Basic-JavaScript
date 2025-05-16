@@ -1,6 +1,6 @@
 ---
 
-print.bmp
+print.jpg
 
 ---
 
