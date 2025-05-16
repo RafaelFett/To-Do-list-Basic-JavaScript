@@ -23,7 +23,7 @@ Ele é uma lista de tarefas (to-do list) funcional, com foco em usabilidade e vi
 
 ---
 
-## 🧠 Tecnologias utilizadas
+##  Tecnologias utilizadas
 
 - HTML5
 - JavaScript (puro)
@@ -31,7 +31,7 @@ Ele é uma lista de tarefas (to-do list) funcional, com foco em usabilidade e vi
 - FontAwesome 6
 
 
-## 📂 Como rodar localmente
+##  Como rodar localmente
 
 1. Clone o repositório
 ```bash
